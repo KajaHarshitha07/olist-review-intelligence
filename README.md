@@ -9,11 +9,6 @@
 > **NLP + Generative AI extension of the [Olist E-Commerce Analytics](https://github.com/KajaHarshitha07) project.**  
 > Transforms 96K+ unstructured customer reviews into merchant-level sentiment scores, complaint keywords, and AI-generated improvement recommendations — deployed as a live interactive Streamlit app.
 
----
-
-## 🔗 Live Demo
-
-**👉 [View Live App](https://your-app-url.streamlit.app)** ← *(replace with your Streamlit URL after deploying)*
 
 ---
 
